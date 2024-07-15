@@ -29,7 +29,7 @@ This is a comprehensive to-do list application built using HTML, CSS, JavaScript
 - **Frontend**
   - HTML
   - CSS (Bootstrap/Tailwind)
-  - JavaScript (Vanilla JS/React.js/Vue.js) [choose based on what you used]
+  - JavaScript
 
 - **Backend**
   - Python
