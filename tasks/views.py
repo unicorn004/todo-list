@@ -31,7 +31,7 @@ def login_view(request):
             if user is not None:
                 login(request, user)
                 # Redirect to a specific page after successful login
-                return redirect('task_list')  # Replace 'task_list' with your desired redirect URL
+                return redirect('task_list')
     else:
         form = AuthenticationForm()
 
